@@ -1,0 +1,14 @@
+{
+  "name": "my-http-server",
+  "version": "1.0.0",
+  "description": "test-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rama-27",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.10.1"
+  }
+}
